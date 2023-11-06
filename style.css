@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('Acer_Wallpaper_04_3840x2400.jpg'); 
+background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    color: #680000;
+    text-align: center;
+}
+.container {
+    background-color: rgb(255, 255, 255);
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+h1 {
+    font-size: 24px;
+    color: #8c00ff;
+}
+p {
+    font-size: 16px;
+}
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+#hasilBeratBadan {
+    font-size: 20px;
+    margin-top: 20px;
+}
